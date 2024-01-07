@@ -8,3 +8,4 @@ git checkout id--->it checks what changes have been done in that id, it moves th
 git branch-->it shows the branch and head status.
 git checkout master--->attaches the head with the master branch
 git checkout -b branch_name -->Switches to a new branch.
+git merge branch_name--->be in master branch and then merge the new branches to master.
