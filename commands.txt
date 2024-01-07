@@ -6,3 +6,5 @@ git diff-->to specifically see what all changes that has been done.
 git log-->logs of the commit that we have done
 git checkout id--->it checks what changes have been done in that id, it moves the head to that id.
 git branch-->it shows the branch and head status.
+git checkout master--->attaches the head with the master branch
+git checkout -b branch_name -->Switches to a new branch.
